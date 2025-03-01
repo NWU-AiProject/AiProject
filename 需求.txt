@@ -1,0 +1,19 @@
+POST /api/upload
+Content-Type: multipart/form-data
+
+file	binary	上传的文件内容
+userId	string	用户ID
+
+成功响应标志
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "fileId": "uuid",
+    "fileName": "example.pdf",
+    "fileType": "application/pdf",
+    "fileSize": 102400,
+    "filePath": "/uploads/2023/example.pdf"
+  }
+}
+将文件路径改为：filePath = Paths.get("uploads", LocalDate.now().toString(), UUID.randomUUID() + "_" + originalFilename).toString();
