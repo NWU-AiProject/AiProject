@@ -1,0 +1,165 @@
+2025-02-27 19:51:33.155 [main] INFO  com.deepseek.EndApplication - Starting EndApplication using Java 23.0.1 with PID 24312 (C:\Users\hhy\Desktop\end\target\classes started by hhy in C:\Users\hhy\Desktop\end)
+2025-02-27 19:51:33.156 [main] INFO  com.deepseek.EndApplication - No active profile set, falling back to 1 default profile: "default"
+2025-02-27 19:51:33.908 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-02-27 19:51:33.965 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 769 ms
+2025-02-27 19:51:34.301 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-02-27 19:51:34.307 [main] INFO  com.deepseek.EndApplication - Started EndApplication in 1.627 seconds (process running for 2.063)
+2025-02-27 20:04:13.756 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-02-27 20:04:13.757 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-02-28 20:59:40.541 [main] INFO  com.deepseek.EndApplication - Starting EndApplication using Java 23.0.1 with PID 4128 (C:\Users\hhy\Desktop\end\target\classes started by hhy in C:\Users\hhy\Desktop\end)
+2025-02-28 20:59:40.543 [main] INFO  com.deepseek.EndApplication - No active profile set, falling back to 1 default profile: "default"
+2025-02-28 20:59:41.157 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-02-28 20:59:41.203 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 627 ms
+2025-02-28 20:59:41.494 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-02-28 20:59:41.500 [main] INFO  com.deepseek.EndApplication - Started EndApplication in 1.392 seconds (process running for 1.821)
+2025-02-28 20:59:46.202 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-02-28 20:59:46.203 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2025-02-28 21:15:32.334 [http-nio-8080-exec-7] INFO  c.deepseek.controller.ChatController - 问题内容：d
+2025-02-28 21:15:38.819 [http-nio-8080-exec-8] INFO  c.deepseek.controller.ChatController - 问题内容：1
+2025-02-28 21:17:39.822 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-28 21:17:39.827 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-02-28 21:17:43.114 [main] INFO  com.deepseek.EndApplication - Starting EndApplication using Java 23.0.1 with PID 37972 (C:\Users\hhy\Desktop\end\target\classes started by hhy in C:\Users\hhy\Desktop\end)
+2025-02-28 21:17:43.115 [main] INFO  com.deepseek.EndApplication - No active profile set, falling back to 1 default profile: "default"
+2025-02-28 21:17:43.748 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-02-28 21:17:43.799 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 649 ms
+2025-02-28 21:17:44.058 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-02-28 21:17:44.063 [main] INFO  com.deepseek.EndApplication - Started EndApplication in 1.393 seconds (process running for 1.819)
+2025-02-28 21:17:49.338 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-02-28 21:17:49.339 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-02-28 21:29:30.373 [http-nio-8080-exec-7] INFO  c.deepseek.controller.ChatController - 问题内容：11
+2025-02-28 21:29:38.204 [http-nio-8080-exec-9] INFO  c.deepseek.controller.ChatController - 问题内容：00
+2025-02-28 21:31:05.757 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-28 21:31:05.763 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-02-28 21:31:08.769 [main] INFO  com.deepseek.EndApplication - Starting EndApplication using Java 23.0.1 with PID 15264 (C:\Users\hhy\Desktop\end\target\classes started by hhy in C:\Users\hhy\Desktop\end)
+2025-02-28 21:31:08.770 [main] INFO  com.deepseek.EndApplication - No active profile set, falling back to 1 default profile: "default"
+2025-02-28 21:31:09.380 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-02-28 21:31:09.431 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 627 ms
+2025-02-28 21:31:09.689 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-02-28 21:31:09.694 [main] INFO  com.deepseek.EndApplication - Started EndApplication in 1.365 seconds (process running for 1.789)
+2025-02-28 21:31:13.342 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-02-28 21:31:13.342 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2025-02-28 21:31:13.397 [http-nio-8080-exec-2] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:31:13.443 [http-nio-8080-exec-3] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:31:48.569 [http-nio-8080-exec-4] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:31:48.607 [http-nio-8080-exec-5] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:32:36.672 [http-nio-8080-exec-6] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:32:36.705 [http-nio-8080-exec-7] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:32:40.548 [http-nio-8080-exec-8] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:32:40.602 [http-nio-8080-exec-9] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:32:56.286 [http-nio-8080-exec-10] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:32:56.317 [http-nio-8080-exec-1] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:34:24.391 [http-nio-8080-exec-4] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:34:24.428 [http-nio-8080-exec-5] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:34:57.643 [http-nio-8080-exec-6] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:34:57.679 [http-nio-8080-exec-7] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:34:59.076 [http-nio-8080-exec-8] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:34:59.115 [http-nio-8080-exec-9] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:35:15.480 [http-nio-8080-exec-10] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:35:15.510 [http-nio-8080-exec-1] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:35:16.687 [http-nio-8080-exec-2] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:35:16.722 [http-nio-8080-exec-3] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:35:32.878 [http-nio-8080-exec-4] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:35:32.882 [http-nio-8080-exec-5] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:51:08.539 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-28 21:51:09.511 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-02-28 21:51:27.789 [main] INFO  com.deepseek.EndApplication - Starting EndApplication using Java 23.0.1 with PID 36936 (C:\Users\hhy\Desktop\end\target\classes started by hhy in C:\Users\hhy\Desktop\end)
+2025-02-28 21:51:27.791 [main] INFO  com.deepseek.EndApplication - No active profile set, falling back to 1 default profile: "default"
+2025-02-28 21:51:28.599 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-02-28 21:51:28.657 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 813 ms
+2025-02-28 21:51:28.866 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'handlerExceptionResolver' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Failed to instantiate [org.springframework.web.servlet.HandlerExceptionResolver]: Factory method 'handlerExceptionResolver' threw exception with message: Ambiguous @ExceptionHandler method mapped for [ExceptionHandler{exceptionType=java.lang.Exception, mediaType=*/*}]: {public com.deepseek.model.dto.HistoryResponse com.deepseek.exception.GlobalExceptionHandler.HistoryHandleException(java.lang.Exception), public com.deepseek.model.dto.ChatResponse com.deepseek.exception.GlobalExceptionHandler.ChatHandleException(java.lang.Exception)}
+2025-02-28 21:51:28.877 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-02-28 21:51:28.892 [main] ERROR o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'handlerExceptionResolver' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Failed to instantiate [org.springframework.web.servlet.HandlerExceptionResolver]: Factory method 'handlerExceptionResolver' threw exception with message: Ambiguous @ExceptionHandler method mapped for [ExceptionHandler{exceptionType=java.lang.Exception, mediaType=*/*}]: {public com.deepseek.model.dto.HistoryResponse com.deepseek.exception.GlobalExceptionHandler.HistoryHandleException(java.lang.Exception), public com.deepseek.model.dto.ChatResponse com.deepseek.exception.GlobalExceptionHandler.ChatHandleException(java.lang.Exception)}
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:657)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:645)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1361)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1191)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:346)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1155)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1121)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1056)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350)
+	at com.deepseek.EndApplication.main(EndApplication.java:10)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.web.servlet.HandlerExceptionResolver]: Factory method 'handlerExceptionResolver' threw exception with message: Ambiguous @ExceptionHandler method mapped for [ExceptionHandler{exceptionType=java.lang.Exception, mediaType=*/*}]: {public com.deepseek.model.dto.HistoryResponse com.deepseek.exception.GlobalExceptionHandler.HistoryHandleException(java.lang.Exception), public com.deepseek.model.dto.ChatResponse com.deepseek.exception.GlobalExceptionHandler.ChatHandleException(java.lang.Exception)}
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:199)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiateWithFactoryMethod(SimpleInstantiationStrategy.java:88)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:168)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653)
+	... 21 common frames omitted
+Caused by: java.lang.IllegalStateException: Ambiguous @ExceptionHandler method mapped for [ExceptionHandler{exceptionType=java.lang.Exception, mediaType=*/*}]: {public com.deepseek.model.dto.HistoryResponse com.deepseek.exception.GlobalExceptionHandler.HistoryHandleException(java.lang.Exception), public com.deepseek.model.dto.ChatResponse com.deepseek.exception.GlobalExceptionHandler.ChatHandleException(java.lang.Exception)}
+	at org.springframework.web.method.annotation.ExceptionHandlerMethodResolver.addExceptionMapping(ExceptionHandlerMethodResolver.java:146)
+	at org.springframework.web.method.annotation.ExceptionHandlerMethodResolver.<init>(ExceptionHandlerMethodResolver.java:99)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.initExceptionHandlerAdviceCache(ExceptionHandlerExceptionResolver.java:320)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.afterPropertiesSet(ExceptionHandlerExceptionResolver.java:287)
+	at org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupport.addDefaultHandlerExceptionResolvers(WebMvcConfigurationSupport.java:1084)
+	at org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupport.handlerExceptionResolver(WebMvcConfigurationSupport.java:1025)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:171)
+	... 24 common frames omitted
+2025-02-28 21:52:26.261 [main] INFO  com.deepseek.EndApplication - Starting EndApplication using Java 23.0.1 with PID 29708 (C:\Users\hhy\Desktop\end\target\classes started by hhy in C:\Users\hhy\Desktop\end)
+2025-02-28 21:52:26.263 [main] INFO  com.deepseek.EndApplication - No active profile set, falling back to 1 default profile: "default"
+2025-02-28 21:52:26.902 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-02-28 21:52:26.953 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 654 ms
+2025-02-28 21:52:27.379 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-02-28 21:52:27.385 [main] INFO  com.deepseek.EndApplication - Started EndApplication in 1.571 seconds (process running for 2.045)
+2025-02-28 21:52:40.118 [http-nio-8080-exec-3] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-02-28 21:52:40.119 [http-nio-8080-exec-3] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2025-02-28 21:52:40.164 [http-nio-8080-exec-3] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 21:52:40.223 [http-nio-8080-exec-2] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:03:09.473 [main] INFO  com.deepseek.EndApplication - Starting EndApplication using Java 23.0.1 with PID 31556 (C:\Users\hhy\Desktop\end\target\classes started by hhy in C:\Users\hhy\Desktop\end)
+2025-02-28 22:03:09.475 [main] INFO  com.deepseek.EndApplication - No active profile set, falling back to 1 default profile: "default"
+2025-02-28 22:03:10.117 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-02-28 22:03:10.171 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 663 ms
+2025-02-28 22:03:10.442 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-02-28 22:03:10.446 [main] INFO  com.deepseek.EndApplication - Started EndApplication in 1.486 seconds (process running for 2.075)
+2025-02-28 22:03:24.850 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-02-28 22:03:24.852 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2025-02-28 22:03:24.896 [http-nio-8080-exec-2] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:03:24.947 [http-nio-8080-exec-3] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:04:23.339 [http-nio-8080-exec-4] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:04:23.353 [http-nio-8080-exec-5] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:04:25.388 [http-nio-8080-exec-6] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:04:25.399 [http-nio-8080-exec-7] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:04:30.520 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-28 22:04:30.525 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-02-28 22:04:33.729 [main] INFO  com.deepseek.EndApplication - Starting EndApplication using Java 23.0.1 with PID 3888 (C:\Users\hhy\Desktop\end\target\classes started by hhy in C:\Users\hhy\Desktop\end)
+2025-02-28 22:04:33.731 [main] INFO  com.deepseek.EndApplication - No active profile set, falling back to 1 default profile: "default"
+2025-02-28 22:04:34.350 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-02-28 22:04:34.401 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 635 ms
+2025-02-28 22:04:34.654 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-02-28 22:04:34.659 [main] INFO  com.deepseek.EndApplication - Started EndApplication in 1.368 seconds (process running for 1.801)
+2025-02-28 22:04:37.576 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-02-28 22:04:37.577 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-02-28 22:04:37.620 [http-nio-8080-exec-2] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:04:37.666 [http-nio-8080-exec-3] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:17:34.892 [http-nio-8080-exec-5] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:17:34.899 [http-nio-8080-exec-7] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:17:42.208 [http-nio-8080-exec-8] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:17:42.213 [http-nio-8080-exec-9] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:17:44.995 [http-nio-8080-exec-10] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:17:45.007 [http-nio-8080-exec-1] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:17:54.224 [http-nio-8080-exec-2] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:17:54.230 [http-nio-8080-exec-3] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:17:58.350 [http-nio-8080-exec-4] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:17:58.358 [http-nio-8080-exec-6] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:18:04.340 [http-nio-8080-exec-5] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:18:04.344 [http-nio-8080-exec-7] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:18:19.398 [http-nio-8080-exec-8] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:18:19.402 [http-nio-8080-exec-9] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:19:15.041 [http-nio-8080-exec-10] INFO  c.d.controller.HistoryController - 用户ID：1
+2025-02-28 22:19:15.045 [http-nio-8080-exec-1] INFO  c.d.controller.HistoryController - 用户ID：1
